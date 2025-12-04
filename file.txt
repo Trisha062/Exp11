@@ -1,4 +1,4 @@
 Hello git
 local change
 remote change
-
+local change
